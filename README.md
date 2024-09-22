@@ -23,4 +23,4 @@ I am a undergraduate student at Universitas Muhammadiyah Riau, specializing in w
 
 ### Reach me on
 - <a href="https://linkedin.com/in/mhdhadi12/">LinkedIn</a>
-- hadiparker128gmail.com
+- hadiparker12@gmail.com
