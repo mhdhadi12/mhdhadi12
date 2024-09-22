@@ -1,8 +1,8 @@
 # Halo All! 
 
-Perkenalkan nama saya **Thahirudin**.<br>
+Perkenalkan nama saya **Muhammad Hadi**.<br>
 
-I am a undergraduate student at Universitas Muhammadiyah Riau, specializing in web development. Proficient in JavaScript, CSS, HTML, PHP, and MySQL, with hands-on experience in utilizing Laravel, Tailwind, and Bootstrap. I also have a keen interest and practical experience in UI/UX and graphic design, actively involved in managing the social media for Generasi Baru Indonesia at Universitas Muhammadiyah Riau. Open to collaboration and new opportunities in the fields of web development and graphic design. <br>
+I am a undergraduate student at Universitas Muhammadiyah Riau, specializing in web development. Proficient in JavaScript, CSS, HTML, PHP, and MySQL, with hands-on experience in utilizing Laravel, Tailwind, and CSS. I also have a keen interest and practical experience in UI/UX and graphic design, actively involved in managing the social media for Generasi Baru Indonesia at Universitas Muhammadiyah Riau. Open to collaboration and new opportunities in the fields of web development and graphic design. <br>
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
@@ -16,11 +16,11 @@ I am a undergraduate student at Universitas Muhammadiyah Riau, specializing in w
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/thahirudin">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thahirudin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thahirudin&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhdhadi12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhdhadi12&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/thahirudin/">LinkedIn</a>
-- tohiruzain098gmail.com
+- <a href="https://linkedin.com/in/mhdhadi12/">LinkedIn</a>
+- hadiparker128gmail.com
